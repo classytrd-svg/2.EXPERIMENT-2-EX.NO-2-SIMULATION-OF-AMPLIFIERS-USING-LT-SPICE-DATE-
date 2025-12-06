@@ -38,4 +38,4 @@ SOFTWARE REQUIRED:
 
 
 ## RESULT:
-![WhatsApp Image 2025-11-18 at 21 36 54_41cd46da](https://github.com/user-attachments/assets/5777b91d-2490-499b-83d5-1de25239507a)
+the simulation is excecuted successfully.
